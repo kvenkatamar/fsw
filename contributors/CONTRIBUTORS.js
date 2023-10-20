@@ -11,6 +11,15 @@ contributors = [
     BIO: "Full Stack Web Developer",
     GITHUB: "https://github.com/kvenkatamar",
   },
+
+  {
+    NAME: "Yerra Akash",
+    YEAR: "3rd",
+    BRANCH: "CSE",
+    COLLEGE: "GRIET",
+    BIO: "Frontend Web Developer",
+    GITHUB: "https://github.com/akashyerra",
+  },
   
   // Add more contributors as needed
   
