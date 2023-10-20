@@ -22,6 +22,15 @@ contributors = [
   },
   
   // Add more contributors as needed
+
+  {
+    NAME : "Mooda Soumya",
+    YEAR : "3rd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Frontend Web Developer",
+    GITHUB : "https://github.com/Soumyamooda",
+  };
   
 ];
 
