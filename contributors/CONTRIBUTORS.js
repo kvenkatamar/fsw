@@ -41,6 +41,15 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/Soumyamooda",
   },
+
+  {
+    NAME : "Mariyala Rohith",
+    YEAR : "2rd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Frontend Web Developer",
+    GITHUB : "https://github.com/mrohith29",
+  },
   
 ];
 
