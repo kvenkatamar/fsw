@@ -142,6 +142,7 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/SriramNeerukonda",
   },
+  
   {
     NAME : "M Ram Kishan",
     YEAR : "2nd",
@@ -150,7 +151,17 @@ contributors = [
     BIO : "Student and Developer",
     GITHUB : "https://github.com/ramkishan045",
   },
+  
+  {
+    NAME : "Yenumula Siddhartha",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/SiddhuS0",
+  },
 ];
+
 
 
 // Thank you for your hard work and dedication to this project!
