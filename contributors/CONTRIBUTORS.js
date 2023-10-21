@@ -41,6 +41,15 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/Soumyamooda",
   },
+
+  {
+    NAME : "Ch Benerjee",
+    YEAR : "3rd",
+    BRANCH : "AIML",
+    COLLEGE : "GRIET",
+    BIO : "Machine Learning Developer",
+    GITHUB : "https://github.com/Bennu17",
+  },
   
 ];
 
