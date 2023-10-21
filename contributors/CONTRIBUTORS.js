@@ -142,6 +142,16 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/SriramNeerukonda",
   },
+  
+  {
+    NAME : "M Ram Kishan",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Student and Developer",
+    GITHUB : "https://github.com/ramkishan045",
+  },
+  
   {
     NAME : "Yenumula Siddhartha",
     YEAR : "2nd",
