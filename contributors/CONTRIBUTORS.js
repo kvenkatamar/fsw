@@ -11,7 +11,14 @@ contributors = [
     BIO: "Full Stack Web Developer",
     GITHUB: "https://github.com/kvenkatamar",
   },
-  
+  {
+    NAME: "Gayathri Kodipaka",
+    YEAR: "2nd",
+    BRANCH: "IT",
+    COLLEGE: "GRIET",
+    BIO: "Web Developer",
+    GITHUB: "https://github.com/GayathriKodipaka",
+  },
   // Add more contributors as needed
   
 ];
