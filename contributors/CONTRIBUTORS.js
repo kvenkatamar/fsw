@@ -41,6 +41,15 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/Soumyamooda",
   },
+
+   {
+    NAME: "Afreen",
+    YEAR: "2nd",
+    BRANCH: "CSE",
+    COLLEGE: "GRIET",
+    BIO: "Frontend Web Developer",
+    GITHUB: "https://github.com/Afreen234",
+  },
   
 ];
 
