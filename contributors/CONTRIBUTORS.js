@@ -20,6 +20,7 @@ contributors = [
     BIO: "Frontend Web Developer",
     GITHUB: "https://github.com/akashyerra",
   },
+
   
   // Add more contributors as needed
   
