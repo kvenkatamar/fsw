@@ -4,11 +4,3 @@ When you submit a pull request (PR), please use the following labeling system to
 
 - **"feature"**: Use this label if your PR introduces a new feature or enhancement.
 - **"bug"**: Use this label if your PR is a bug fix or addresses an issue.
-{
-   Name: "Gayathri Kodipaka",
-   Year: "2nd",
-   Branch: "IT",
-   College: "GRIET",
-   Bio:"Web Developer",
-   GITHUB: "https://github.com/GayathriKodipaka",
-},
