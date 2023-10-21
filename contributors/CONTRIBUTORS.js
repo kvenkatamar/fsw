@@ -56,6 +56,15 @@ contributors = [
     BIO : "Machine Learning Developer",
     GITHUB : "https://github.com/Bennu17",
   },
+
+  {
+    NAME : "Mariyala Rohith",
+    YEAR : "2rd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Frontend Web Developer",
+    GITHUB : "https://github.com/mrohith29",
+  },
   
   
   // Add more contributors as needed
