@@ -11,6 +11,15 @@ contributors = [
     BIO: "Full Stack Web Developer",
     GITHUB: "https://github.com/kvenkatamar",
   },
+  
+  {
+    NAME: "Gayathri Kodipaka",
+    YEAR: "2nd",
+    BRANCH: "IT",
+    COLLEGE: "GRIET",
+    BIO: "Web Developer",
+    GITHUB: "https://github.com/GayathriKodipaka",
+  },
 
   {
     NAME: "Yerra Akash",
@@ -20,9 +29,6 @@ contributors = [
     BIO: "Frontend Web Developer",
     GITHUB: "https://github.com/akashyerra",
   },
-
-  
-  // Add more contributors as needed
 
   {
     NAME : "Mooda Soumya",
@@ -50,6 +56,9 @@ contributors = [
     BIO : "Machine Learning Developer",
     GITHUB : "https://github.com/Bennu17",
   },
+  
+  
+  // Add more contributors as needed
   
 ];
 
