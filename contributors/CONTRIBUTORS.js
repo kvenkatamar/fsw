@@ -101,6 +101,15 @@ contributors = [
     GITHUB : "https://github.com/suharshitha46",
   },
   
+  {
+    NAME : "Keerthi Bogireddy",
+    YEAR : "2nd",
+    BRANCH : "AIML",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/Keerthi-Bogireddy",
+  },
+  
   // Add more contributors as needed
   
 ];
