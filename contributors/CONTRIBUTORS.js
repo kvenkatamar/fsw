@@ -126,6 +126,14 @@ contributors = [
     GITHUB : "https://github.com/RamKoushik-03",
   },
   // Add more contributors as needed
+  {
+    NAME : "chaitanya phani challa",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/chaitanyaiscoding",
+  },
   
 ];
 
