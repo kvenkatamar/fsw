@@ -65,6 +65,15 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/mrohith29",
   },
+
+  {
+    NAME : "Tanuja Prathipati",
+    YEAR : "2nd",
+    BRANCH : "AIML",
+    COLLEGE : "GRIET",
+    BIO : "Frontend Web Developer",
+    GITHUB : "https://github.com/tanuja-prathipati",
+  },
   
   
   // Add more contributors as needed
