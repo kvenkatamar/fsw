@@ -142,7 +142,16 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/SriramNeerukonda",
   },
+  {
+    NAME : "Yenumula Siddhartha",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/SiddhuS0",
+  },
 ];
+
 
 
 // Thank you for your hard work and dedication to this project!
