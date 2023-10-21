@@ -82,6 +82,14 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/tanuja-prathipati",
   },
+   {
+    NAME: "Gandla Sai Charanya ",
+    YEAR: "2nd",
+    BRANCH: "CSE",
+    COLLEGE: "GRIET",
+    BIO: "Frontend Web Developer",
+    GITHUB: "https://github.com/SaiCharanya16",
+  },
   
   
   // Add more contributors as needed
