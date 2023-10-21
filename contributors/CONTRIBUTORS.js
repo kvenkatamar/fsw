@@ -117,7 +117,14 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/Keerthi-Bogireddy",
   },
-  
+  {
+    NAME : "Ram Koushik Mendru",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/RamKoushik-03",
+  },
   // Add more contributors as needed
   
 ];
