@@ -20,6 +20,14 @@ contributors = [
     BIO: "Frontend Web Developer",
     GITHUB: "https://github.com/akashyerra",
   },
+   {
+    NAME: "SaiSree Peruboyina",
+    YEAR: "2nd",
+    BRANCH: "IT",
+    COLLEGE: "GRIET",
+    BIO: "Frontend App Developer",
+    GITHUB: "https://github.com/SaiSreePeruboyina",
+  },
 
   
   // Add more contributors as needed
