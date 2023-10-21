@@ -82,7 +82,15 @@ contributors = [
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/tanuja-prathipati",
   },
-  
+
+  {
+    NAME : "Pranathi Pudukodu",
+    YEAR : "2rd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Machine Learning Developer",
+    GITHUB : "https://github.com/Pranathi1874",
+  },
   
   // Add more contributors as needed
   
