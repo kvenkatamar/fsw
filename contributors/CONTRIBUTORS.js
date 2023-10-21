@@ -33,15 +33,6 @@ contributors = [
     GITHUB : "https://github.com/Soumyamooda",
   },
 
-  {
-    NAME : "Mooda Soumya",
-    YEAR : "3rd",
-    BRANCH : "CSE",
-    COLLEGE : "GRIET",
-    BIO : "Frontend Web Developer",
-    GITHUB : "https://github.com/Soumyamooda",
-  },
-
    {
     NAME: "Afreen",
     YEAR: "2nd",
@@ -49,6 +40,15 @@ contributors = [
     COLLEGE: "GRIET",
     BIO: "Frontend Web Developer",
     GITHUB: "https://github.com/Afreen234",
+  },
+    
+  {
+    NAME : "Ch Benerjee",
+    YEAR : "3rd",
+    BRANCH : "AIML",
+    COLLEGE : "GRIET",
+    BIO : "Machine Learning Developer",
+    GITHUB : "https://github.com/Bennu17",
   },
   
 ];
