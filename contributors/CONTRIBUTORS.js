@@ -83,6 +83,15 @@ contributors = [
     GITHUB : "https://github.com/tanuja-prathipati",
   },
   
+   {
+    NAME : "SH Suharshitha",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Frontend Web Developer",
+    GITHUB : "https://github.com/suharshitha46",
+  },
+  
   
   // Add more contributors as needed
   
