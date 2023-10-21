@@ -31,7 +31,16 @@ contributors = [
     COLLEGE : "GRIET",
     BIO : "Frontend Web Developer",
     GITHUB : "https://github.com/Soumyamooda",
-  };
+  },
+
+  {
+    NAME : "Mooda Soumya",
+    YEAR : "3rd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : "Frontend Web Developer",
+    GITHUB : "https://github.com/Soumyamooda",
+  },
   
 ];
 
