@@ -134,7 +134,14 @@ contributors = [
     BIO : " Frontend Web Developer",
     GITHUB : "https://github.com/chaitanyaiscoding",
   },
-  
+  {
+    NAME : "Sriram Neerukonda",
+    YEAR : "2nd",
+    BRANCH : "CSE",
+    COLLEGE : "GRIET",
+    BIO : " Frontend Web Developer",
+    GITHUB : "https://github.com/SriramNeerukonda",
+  },
 ];
 
 
